@@ -1,0 +1,5 @@
+Plugins/Developer/*
+.idea
+.vs
+Intermediate/Build/Win64/UE5CollabEditor/Development/Engine/SharedPCH.Engine.ShadowErrors.h.pch
+# Intermediate/Build/Win64/UE5CollabEditor/Development

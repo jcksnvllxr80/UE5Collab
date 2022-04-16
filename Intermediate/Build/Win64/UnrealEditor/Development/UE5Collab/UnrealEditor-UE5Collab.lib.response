@@ -1,0 +1,15 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-UE5Collab.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\A-A-Ron\git\UE5Collab\Intermediate\Build\Win64\UE5CollabEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"C:\Users\A-A-Ron\git\UE5Collab\Intermediate\Build\Win64\UnrealEditor\Development\UE5Collab\UE5Collab.cpp.obj"
+"C:\Users\A-A-Ron\git\UE5Collab\Intermediate\Build\Win64\UnrealEditor\Development\UE5Collab\UE5CollabGameModeBase.cpp.obj"
+"C:\Users\A-A-Ron\git\UE5Collab\Intermediate\Build\Win64\UnrealEditor\Development\UE5Collab\UE5Collab.init.gen.cpp.obj"
+"C:\Users\A-A-Ron\git\UE5Collab\Intermediate\Build\Win64\UnrealEditor\Development\UE5Collab\UE5CollabGameModeBase.gen.cpp.obj"
+"C:\Users\A-A-Ron\git\UE5Collab\Intermediate\Build\Win64\UnrealEditor\Development\UE5Collab\Default.rc2.res"
+/OUT:"C:\Users\A-A-Ron\git\UE5Collab\Intermediate\Build\Win64\UnrealEditor\Development\UE5Collab\UnrealEditor-UE5Collab.lib"

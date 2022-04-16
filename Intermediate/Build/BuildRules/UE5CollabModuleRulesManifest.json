@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"C:\\Users\\A-A-Ron\\git\\UE5Collab\\Source\\UE5Collab\\UE5Collab.Build.cs",
+		"C:\\Users\\A-A-Ron\\git\\UE5Collab\\Source\\UE5Collab.Target.cs",
+		"C:\\Users\\A-A-Ron\\git\\UE5Collab\\Source\\UE5CollabEditor.Target.cs"
+	],
+	"EngineVersion": "5.0.0"
+}

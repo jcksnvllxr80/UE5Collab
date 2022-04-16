@@ -1,0 +1,19 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "c:\\users\\a-a-ron\\git\\ue5collab\\source\\ue5collab\\ue5collabgamemodebase.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\a-a-ron\\git\\ue5collab\\intermediate\\build\\win64\\ue5collabeditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "c:\\users\\a-a-ron\\git\\ue5collab\\intermediate\\build\\win64\\unrealeditor\\development\\ue5collab\\definitions.ue5collab.h",
+            "c:\\users\\a-a-ron\\git\\ue5collab\\source\\ue5collab\\ue5collabgamemodebase.h",
+            "f:\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\gameframework\\gamemodebase.h",
+            "f:\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\engine\\serverstatreplicator.h",
+            "f:\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\serverstatreplicator.generated.h",
+            "f:\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\gamemodebase.generated.h",
+            "c:\\users\\a-a-ron\\git\\ue5collab\\intermediate\\build\\win64\\unrealeditor\\inc\\ue5collab\\ue5collabgamemodebase.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

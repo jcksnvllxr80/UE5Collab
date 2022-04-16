@@ -1,0 +1,13 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "c:\\users\\a-a-ron\\git\\ue5collab\\intermediate\\build\\win64\\unrealeditor\\inc\\ue5collab\\ue5collab.init.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\a-a-ron\\git\\ue5collab\\intermediate\\build\\win64\\ue5collabeditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "c:\\users\\a-a-ron\\git\\ue5collab\\intermediate\\build\\win64\\unrealeditor\\development\\ue5collab\\definitions.ue5collab.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

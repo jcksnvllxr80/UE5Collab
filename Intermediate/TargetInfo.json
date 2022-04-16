@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "UE5Collab",
+			"Path": "C:\\Users\\A-A-Ron\\git\\UE5Collab\\Source\\UE5Collab.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "UE5CollabEditor",
+			"Path": "C:\\Users\\A-A-Ron\\git\\UE5Collab\\Source\\UE5CollabEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
