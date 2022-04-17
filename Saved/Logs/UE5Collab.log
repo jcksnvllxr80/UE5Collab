@@ -1903,3 +1903,18 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2022.04.17-14.56.15:687][291]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
 [2022.04.17-14.56.15:700][291]LogUObjectHash: Compacting FUObjectHashTables data took   1.96ms
 [2022.04.17-14.56.15:742][292]LogPlayLevel: Display: Destroying online subsystem :Context_20
+[2022.04.17-14.58.59:889][454]LogUObjectHash: Compacting FUObjectHashTables data took   1.81ms
+[2022.04.17-14.58.59:948][454]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TestMap1/4/YF/Z59W77ZO1ESOVL6ZV2HKPF
+[2022.04.17-14.58.59:948][454]LogSavePackage: Moving 'E:/UE-Project files/UE5Collab/Saved/Z59W77ZO1ESOVL6ZV2HKPFB30EFEE74AB11B1B7179D09A2A55E935.tmp' to 'E:/UE-Project files/UE5Collab/Content/__ExternalActors__/TestMap1/4/YF/Z59W77ZO1ESOVL6ZV2HKPF.uasset'
+[2022.04.17-14.58.59:952][454]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/import/Suburu/TireSqueal" FILE="E:/UE-Project files/UE5Collab/Content/import/Suburu/TireSqueal.uasset" SILENT=true
+[2022.04.17-14.58.59:954][454]LogSavePackage: Moving output files for package: /Game/import/Suburu/TireSqueal
+[2022.04.17-14.58.59:954][454]LogSavePackage: Moving 'E:/UE-Project files/UE5Collab/Saved/TireSqueal8BD215FF4206E0BF20B0FE99D271D67F.tmp' to 'E:/UE-Project files/UE5Collab/Content/import/Suburu/TireSqueal.uasset'
+[2022.04.17-14.58.59:975][454]AssetCheck: New page: Asset Save: multiple assets
+[2022.04.17-14.58.59:975][454]LogContentValidation: Display: Validating BP_Suburu_C /Game/TestMap1.TestMap1:PersistentLevel.BP_Suburu_C_UAID_4CCC6A8DA302180701_1430443775
+[2022.04.17-14.58.59:975][454]LogContentValidation: Display: Validating SoundWave /Game/import/Suburu/TireSqueal.TireSqueal
+[2022.04.17-15.03.20:725][649]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=936
+[2022.04.17-15.03.21:063][649]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=6, SampleRate=48000, DeviceID={0.0.0.00000000}.{2d6f55a8-3f69-4fcd-84b8-f810041296ae}, Name=Speakers (Sound Blaster Z)), Reason=FMixerPlatformXAudio2::OnSessionDisconnect() - FormatChanged, InstanceID=1, DurationMS=10.97
+[2022.04.17-15.03.21:063][649]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=6, Samples=6144, InstanceID=1
+[2022.04.17-15.03.21:065][650]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2022.04.17-15.04.41:341][ 55]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/BP_Suburu.BP_Suburu
+[2022.04.17-15.04.41:342][ 55]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
