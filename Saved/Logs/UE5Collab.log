@@ -2115,3 +2115,34 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2022.04.17-16.20.53:508][877]AssetCheck: New page: Asset Save: BP_Suburu_C_UAID_4CCC6A8DA302180701_1430443775
 [2022.04.17-16.20.53:508][877]LogContentValidation: Display: Validating BP_Suburu_C /Game/TestMap1.TestMap1:PersistentLevel.BP_Suburu_C_UAID_4CCC6A8DA302180701_1430443775
 [2022.04.17-16.21.05:813][224]LogUObjectHash: Compacting FUObjectHashTables data took   1.65ms
+[2022.04.17-16.50.05:949][881]LogMaterial: Display: Missing cached shadermap for Material_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 4BF93C96D567CF7AA29B93018A8D7C04CAF63E4C), compiling. 
+[2022.04.17-16.50.07:038][907]LogShaderCompilers: Display: ================================================
+[2022.04.17-16.50.07:038][907]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.04.17-16.50.07:038][907]LogShaderCompilers: Display: Total job queries 214, among them cache hits 39 (18.22%)
+[2022.04.17-16.50.07:038][907]LogShaderCompilers: Display: Tracking 98 distinct input hashes that result in 44 distinct outputs (44.90%)
+[2022.04.17-16.50.07:038][907]LogShaderCompilers: Display: RAM used: 0.10 MB (0.00 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.01%
+[2022.04.17-16.50.07:038][907]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2022.04.17-16.50.07:038][907]LogShaderCompilers: Display: Shaders Compiled: 139
+[2022.04.17-16.50.07:038][907]LogShaderCompilers: Display: Jobs assigned 101, completed 98 (97.03%)
+[2022.04.17-16.50.07:038][907]LogShaderCompilers: Display: Average time worker was idle: 261.61 s
+[2022.04.17-16.50.07:038][907]LogShaderCompilers: Display: Time job spent in pending queue: average 1.32 s, longest 14.15 s
+[2022.04.17-16.50.07:038][907]LogShaderCompilers: Display: Job execution time: average 7.69 s, max 16.01 s
+[2022.04.17-16.50.07:038][907]LogShaderCompilers: Display: Job life time (pending + execution): average 9.05 s, max 16.07
+[2022.04.17-16.50.07:038][907]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 46.14 s
+[2022.04.17-16.50.07:038][907]LogShaderCompilers: Display: Jobs were issued in 51 batches (only local compilation was used), average 1.98 jobs/batch
+[2022.04.17-16.50.07:038][907]LogShaderCompilers: Display: Average processing rate: 2.12 jobs/sec
+[2022.04.17-16.50.07:039][907]LogShaderCompilers: Display: Effective parallelization: 2.88 (times faster than compiling all shaders on one thread). Compare with number of workers: 4
+[2022.04.17-16.50.07:039][907]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2022.04.17-16.50.07:039][907]LogShaderCompilers: Display: TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight (compiled    4 times, average 2.18 sec, max 2.53 sec, min 1.31 sec)
+[2022.04.17-16.50.07:039][907]LogShaderCompilers: Display:             TShadowDepthVSVertexShadowDepth_VirtualShadowMap (compiled    2 times, average 1.92 sec, max 2.21 sec, min 1.63 sec)
+[2022.04.17-16.50.07:039][907]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight (compiled    4 times, average 1.92 sec, max 2.48 sec, min 1.30 sec)
+[2022.04.17-16.50.07:039][907]LogShaderCompilers: Display:       TBasePassPSFCachedVolumeIndirectLightingPolicySkylight (compiled    4 times, average 1.90 sec, max 2.41 sec, min 1.27 sec)
+[2022.04.17-16.50.07:039][907]LogShaderCompilers: Display:                TBasePassPSFCachedPointIndirectLightingPolicy (compiled    4 times, average 1.85 sec, max 2.23 sec, min 1.25 sec)
+[2022.04.17-16.50.07:039][907]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2022.04.17-16.50.07:039][907]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 9.02% of total time (compiled    8 times, average 1.50 sec, max 2.20 sec, min 1.03 sec)
+[2022.04.17-16.50.07:039][907]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 8.53% of total time (compiled    8 times, average 1.42 sec, max 2.16 sec, min 0.74 sec)
+[2022.04.17-16.50.07:039][907]LogShaderCompilers: Display: TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight - 6.57% of total time (compiled    4 times, average 2.18 sec, max 2.53 sec, min 1.31 sec)
+[2022.04.17-16.50.07:039][907]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight - 5.79% of total time (compiled    4 times, average 1.92 sec, max 2.48 sec, min 1.30 sec)
+[2022.04.17-16.50.07:039][907]LogShaderCompilers: Display:       TBasePassPSFCachedVolumeIndirectLightingPolicySkylight - 5.73% of total time (compiled    4 times, average 1.90 sec, max 2.41 sec, min 1.27 sec)
+[2022.04.17-16.50.07:039][907]LogShaderCompilers: Display: ================================================
+[2022.04.17-16.51.53:231][ 66]LogTurnkeySupport: Display: Adding device menu item for DESKTOP-TTR2DAC
