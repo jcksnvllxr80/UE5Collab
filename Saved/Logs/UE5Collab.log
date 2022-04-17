@@ -1918,3 +1918,7 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2022.04.17-15.03.21:065][650]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
 [2022.04.17-15.04.41:341][ 55]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/BP_Suburu.BP_Suburu
 [2022.04.17-15.04.41:342][ 55]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.04.17-15.14.37:119][652]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../GameFiles/SmokeTexture001.png)
+[2022.04.17-15.14.37:126][652]LogTexture: Display: Building textures: /Game/import/SmokeTexture001.SmokeTexture001 (TFO_AutoDXT, 256X256 X1X1) (Required Memory Estimate: 1.250 MB), EncodeSpeed: Fast
+[2022.04.17-15.14.37:126][652]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../GameFiles/SmokeTexture002.png)
+[2022.04.17-15.14.37:133][652]LogTexture: Display: Building textures: /Game/import/SmokeTexture002.SmokeTexture002 (TFO_AutoDXT, 256X256 X1X1) (Required Memory Estimate: 1.250 MB), EncodeSpeed: Fast
