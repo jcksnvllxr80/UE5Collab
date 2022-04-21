@@ -1,6 +1,12 @@
 {
 	"SourceFiles": [
 		"C:\\Users\\A-A-Ron\\git\\UE5Collab\\Source\\UE5Collab\\UE5Collab.Build.cs",
+		"C:\\Users\\A-A-Ron\\git\\UE5Collab\\Plugins\\Developer\\RiderLink\\Source\\RD\\RD.Build.cs",
+		"C:\\Users\\A-A-Ron\\git\\UE5Collab\\Plugins\\Developer\\RiderLink\\Source\\RiderBlueprint\\RiderBlueprint.Build.cs",
+		"C:\\Users\\A-A-Ron\\git\\UE5Collab\\Plugins\\Developer\\RiderLink\\Source\\RiderGameControl\\RiderGameControl.Build.cs",
+		"C:\\Users\\A-A-Ron\\git\\UE5Collab\\Plugins\\Developer\\RiderLink\\Source\\RiderLink\\RiderLink.Build.cs",
+		"C:\\Users\\A-A-Ron\\git\\UE5Collab\\Plugins\\Developer\\RiderLink\\Source\\RiderLogging\\RiderLogging.Build.cs",
+		"C:\\Users\\A-A-Ron\\git\\UE5Collab\\Plugins\\Developer\\RiderLink\\Source\\RiderShaderInfoDump\\RiderShaderInfoDump.Build.cs",
 		"C:\\Users\\A-A-Ron\\git\\UE5Collab\\Source\\UE5Collab.Target.cs",
 		"C:\\Users\\A-A-Ron\\git\\UE5Collab\\Source\\UE5CollabEditor.Target.cs"
 	],
